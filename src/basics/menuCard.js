@@ -21,7 +21,7 @@ const menuCard = ({menuData}) => {
                                <span className = "card-description">{description}</span>
                                  <div className = "card-read">Read</div>
                                  <img src = {image} alt = "failed" className = "card-media"/>
-                                   <span className = "card-tag subtle">Order now</span>
+                                   
 
                    </div>
                     </div>
